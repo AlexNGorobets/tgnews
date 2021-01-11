@@ -1,2 +1,7 @@
 # test papers
-inputTest/
+inputTestData/
+# build stuff
+src/obj
+src/tgclustering.depend
+tgnews.exe
+tgnewsd.exe

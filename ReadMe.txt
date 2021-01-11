@@ -12,6 +12,7 @@ How do I get started?
 - download the sources, 
 - run src/tgclustering.cbp via Code::Blocks,
 - build binary for Windows or Linux (both tested)
+- unpack inputTestData.zip in folder with archive
 - and run it.
 Any invalid arguments show you the usage.
 As the test dataset it can be used inputTest dir in the project root.

@@ -12,7 +12,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="languages ..\inputTest" />
+				<Option parameters="languages ..\inputTestData" />
 				<Compiler>
 					<Add option="-g" />
 					<Add option="-DTG_DEBUG_INFO" />
@@ -24,7 +24,7 @@
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="languages ..\inputTest" />
+				<Option parameters="languages ..\inputTestData" />
 				<Compiler>
 					<Add option="-O3" />
 					<Add directory="include" />
